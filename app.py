@@ -1,7 +1,7 @@
 import cv2
 
-img = cv2.imread("ipl.jpeg")
-img = cv2.resize(img, (800,500))
+img = cv2.imread("photo.jpg")
+img = cv2.resize(img, (600,600))
 
 classNames = []
 classFile = 'coco.names'
