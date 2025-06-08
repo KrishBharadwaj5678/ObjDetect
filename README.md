@@ -1,6 +1,6 @@
 # ObjDetect 🔍
 
-A fast and easy-to-use Python object detection script using OpenCV's DNN module and the SSD MobileNet model pretrained on the COCO dataset. 🤖
+A fast and easy-to-use Python object detection script using OpenCV's DNN module and the SSD MobileNet model pretrained on the COCO dataset. 📄
 
 ![ObjDetect Demo](https://github.com/KrishBharadwaj5678/ObjDetect/raw/main/ObjDetectDemo.png)  
 
@@ -52,7 +52,7 @@ A fast and easy-to-use Python object detection script using OpenCV's DNN module 
 Contributions are welcome!
 
 1. 🍴 **Fork the repository**
-2. 📥 **Clone your fork** to your local machine  
+2. 📥 **Clone your fork**
    ```bash
    git clone https://github.com/KrishBharadwaj5678/ObjDetect.git
    ````
