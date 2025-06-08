@@ -35,7 +35,7 @@ A fast and easy-to-use Python object detection script using OpenCV's DNN module 
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/yourusername/ObjDetect.git
+   git clone https://github.com/KrishBharadwaj5678/ObjDetect.git
    cd ObjDetect
    ```
 
