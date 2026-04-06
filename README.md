@@ -1,10 +1,8 @@
 # ObjDetect 🔍
 
-A fast and easy-to-use Python object detection script using OpenCV's DNN module and the SSD MobileNet model pretrained on the COCO dataset. 📄
+A fast and easy-to-use Python object detection script using OpenCV's DNN module and the SSD MobileNet model pretrained on the COCO dataset.
 
 ![ObjDetect Demo](https://github.com/KrishBharadwaj5678/ObjDetect/raw/main/ObjDetectDemo.png)  
-
----
 
 ## Features ✨
 
@@ -49,28 +47,10 @@ A fast and easy-to-use Python object detection script using OpenCV's DNN module 
 
 ## Contributing 🤝
 
-Contributions are welcome!
+Want to contribute? Here's how:
 
-1. 🍴 **Fork the repository**
-2. 📥 **Clone your fork**
-   ```bash
-   git clone https://github.com/KrishBharadwaj5678/ObjDetect.git
-   ````
-
-3. 🛠️ **Create a new branch**
-
-   ```bash
-   git checkout -b feature-name
-   ```
-4. 💻 **Make your changes**
-5. 💬 **Commit your changes**
-
-   ```bash
-   git commit -m "Add: new feature explanation"
-   ```
-6. 🚀 **Push to your forked repo**
-
-   ```bash
-   git push origin feature-name
-   ```
-7. 🔁 **Open a Pull Request**
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
